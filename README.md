@@ -21,6 +21,6 @@
 	<tr>
 		<td><img src="./other/FFD700.svg" width="20"></td>
 		<td>(255, 215, 0)</td>
-		<td>#B7410E</td>
+		<td>#FFD700</td>
 	</tr>
 </table>
