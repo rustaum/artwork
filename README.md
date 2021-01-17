@@ -24,3 +24,7 @@
 		<td>#FFD700</td>
 	</tr>
 </table>
+
+## Fonts
+
+।। rustॐ OS ।। uses [Karma](https://fonts.google.com/specimen/Karma?preview.text=rust%E0%A5%90%20OS&preview.text_type=custom&subset=devanagari#standard-styles), freely available under the Open Font License.
