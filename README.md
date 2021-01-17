@@ -1,2 +1,1 @@
-# artwork
-rustAUM OS artwork
+# ।। rustॐ OS ।। artwork and logos
